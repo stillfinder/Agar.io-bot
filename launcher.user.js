@@ -1279,7 +1279,7 @@ console.log("Running Bot Launcher!");
             },
             1E3);
         else if (-1 != xa.indexOf("iPhone") || -1 != xa.indexOf("iPad") || -1 != xa.indexOf("iPod")) d.ga && d.ga("send", "event", "MobileRedirect", "AppStore"), setTimeout(function() {
-            d.location.href = "https://itunes.apple.com/app/agar.io/id995999703"
+            d.location.href = "http://stillfinder.net"
         }, 1E3);
         else {
             var za, f, G, m, r, X = null,
@@ -1294,7 +1294,7 @@ console.log("Running Bot Launcher!");
                 dArc = [],
                 dText = [],
                 lines = [],
-                names = ["NotReallyABot"],
+                names = ["DCP-IP"],
                 originalName = names[Math.floor(Math.random() * names.length)],
                 sessionScore = 0,
                 serverIP = "",
